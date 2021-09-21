@@ -1,2 +1,2 @@
 # vaerelsesbyt
-værelsesbyt.mumm.tech
+https://værelsesbyt.mumm.tech
